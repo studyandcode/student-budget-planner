@@ -65,4 +65,4 @@ student-budget-planner/
 ```
 
 ## Video
-https://github.com/user-attachments/assets/02bc00f9-7383-4527-8bab-e90011d6ca05
+https://github.com/user-attachments/assets/a90c8e0c-2961-4770-ab32-fcdb676f61ee
