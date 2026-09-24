@@ -65,4 +65,4 @@ student-budget-planner/
 ```
 
 ## Video
-<!-- Uploading "WhatsApp Video 2026-09-24 at 5.20.32 PM.mp4"... -->
+https://github.com/user-attachments/assets/02bc00f9-7383-4527-8bab-e90011d6ca05
