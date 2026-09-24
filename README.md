@@ -64,6 +64,5 @@ student-budget-planner/
 └── README.md
 ```
 
-## Author
-
-Richi
+## Video
+<!-- Uploading "WhatsApp Video 2026-09-24 at 5.20.32 PM.mp4"... -->
